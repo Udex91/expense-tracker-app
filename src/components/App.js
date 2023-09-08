@@ -1,6 +1,7 @@
 import React from "react"
+import Home from "./Home"
 
 
 export default function App(){
-  return <h3>This is an expense tracker app</h3>
+  return <Home />
 };
